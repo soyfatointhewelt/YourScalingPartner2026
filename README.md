@@ -77,5 +77,6 @@ The tool provides:
 ---
 
 ## Repository Structure
+
 ├── Scaling_RAG_v1.ipynb
 ├── README.md

@@ -74,8 +74,6 @@ The tool provides:
 - Python  
 - Google Colab  
 - LLM (GPT-based)  
-- Retrieval-Augmented Generation (RAG) *(optional if you include it)*  
-
 ---
 
 ## Repository Structure
